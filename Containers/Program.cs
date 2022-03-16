@@ -6,7 +6,8 @@ namespace Containers
     {
         static void Main(string[] args)
         {
-            
+            MyQueue queue = new MyQueue();
+            queue.Pop();
         }
     }
 }
