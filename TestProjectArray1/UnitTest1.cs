@@ -37,7 +37,7 @@ namespace TestProjectArray1
     public class UnitTestQueue
     {
         [TestMethod]
-        public void TestIsEmpty()
+        public void TestQueueOutOfRange()
         {
             MyQueue queue = new MyQueue();
 
