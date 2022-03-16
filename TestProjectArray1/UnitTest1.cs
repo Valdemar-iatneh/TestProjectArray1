@@ -1,5 +1,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
+// Аввакумов Владимир, Сематкин Артем, Шакиров Айнур
+
 namespace TestProjectArray1
 {
     [TestClass]
@@ -30,4 +32,6 @@ namespace TestProjectArray1
             Assert.IsTrue(stack.IsEmpty(), "stack is not empty");
         }
     }
+
+
 }
